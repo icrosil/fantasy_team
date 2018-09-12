@@ -1,0 +1,8 @@
+{
+  "name": "fantasy_team",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com-icrosil:icrosil/fantasy_team.git",
+  "author": "Illia Olenchenko <icrosil@gmail.com>",
+  "license": "MIT"
+}
