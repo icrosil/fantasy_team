@@ -4,5 +4,9 @@
   "main": "index.js",
   "repository": "git@github.com-icrosil:icrosil/fantasy_team.git",
   "author": "Illia Olenchenko <icrosil@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@tensorflow/tfjs": "^0.12.7",
+    "@tensorflow/tfjs-node": "^0.1.15"
+  }
 }
