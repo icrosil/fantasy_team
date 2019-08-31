@@ -23,6 +23,9 @@ What data i have and how can i use every bit of data.
 #### Can I do it without ML?
 At start point - yes, some statistic methods would be enough. But in future it will be good to find out how can i use this tool.
 
+## Plan
+- get current players
+
 ## Docs
 - https://medium.com/@277roshan/machine-learning-to-predict-high-performing-players-in-fantasy-premier-league-3c0de546b251
 - https://fantasy.premierleague.com/drf/bootstrap-static
@@ -32,3 +35,4 @@ At start point - yes, some statistic methods would be enough. But in future it w
 - https://towardsdatascience.com/a-simple-method-to-predict-player-performance-using-fantasy-football-data-8b2d3adb3a1a
 - https://towardsdatascience.com/fantasy-football-artificial-intelligence-cheat-sheet-ac172a23e2e1
 - https://towardsdatascience.com/machine-learning-meets-fantasy-football-part-2-36632a27328c
+- https://medium.com/@YourMumSaysWhat/how-to-get-data-from-the-fantasy-premier-league-api-4477d6a334c3
