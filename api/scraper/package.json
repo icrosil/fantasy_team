@@ -3,13 +3,22 @@
   "version": "1.0.0",
   "description": "data scraper from FPL",
   "main": "index.js",
+  "type": "module",
   "author": "Illia Olenchenko",
   "license": "MIT",
   "private": true,
   "scripts": {
-    "start": "nodemon ./index.js"
+    "start": "nodemon --experimental-modules ./index.js"
   },
+  "engines": {
+    "node": ">=12"
+  },
+  "engineStrict": true,
   "devDependencies": {
     "nodemon": "^1.19.1"
+  },
+  "dependencies": {
+    "config": "^3.2.2",
+    "express": "^4.17.1"
   }
 }
