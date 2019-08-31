@@ -24,8 +24,8 @@ What data i have and how can i use every bit of data.
 At start point - yes, some statistic methods would be enough. But in future it will be good to find out how can i use this tool.
 
 ## Plan
-- get current players
-- ?setup environment (eslint/prettier)
+- setup environment (eslint/prettier)
+- save players into memory once a day
 - ?use new technologies? GraphQL/typescript/no nodemodules?
 - ?use proper architecture - microservice/domain driven
 
