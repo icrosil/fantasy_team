@@ -24,9 +24,23 @@ What data i have and how can i use every bit of data.
 At start point - yes, some statistic methods would be enough. But in future it will be good to find out how can i use this tool.
 
 ## Plan
-- setup environment (eslint/prettier)
-- save players into memory once a day
-- ?use new technologies? GraphQL/typescript/no nodemodules?
+- Main question - how to maximize overall team result?
+- Game questions
+  - what positions earn more considering others?
+- Position specific
+  - goalkeeper
+    - How much goalkeepers earn each year considering other positions?
+    - How much should i put on a goalkeeper
+    - When should I change goalkeeper? should i change it?
+    - Should i captain goalkeeper?
+    - Who is the best fit at the moment? Who will be best fit on next week?
+- Player specific
+- Wave Algo:
+  - if we could suggest that everything in play turns to waves (up and down)
+  - isn't it put us to a problem finding maximum of all available waves?
+- ?save players into memory once a day
+- ?normalize data?
+- ?use new technologies? GraphQL/typescript/no nodemodules?/serverless?/next?/now?/
 - ?use proper architecture - microservice/domain driven
 
 ## Docs
@@ -39,3 +53,4 @@ At start point - yes, some statistic methods would be enough. But in future it w
 - https://towardsdatascience.com/fantasy-football-artificial-intelligence-cheat-sheet-ac172a23e2e1
 - https://towardsdatascience.com/machine-learning-meets-fantasy-football-part-2-36632a27328c
 - https://medium.com/@YourMumSaysWhat/how-to-get-data-from-the-fantasy-premier-league-api-4477d6a334c3
+- http://www.fantasyfutopia.com/python-for-fantasy-football-apis-and-json-data/
