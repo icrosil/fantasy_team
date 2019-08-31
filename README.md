@@ -25,7 +25,9 @@ At start point - yes, some statistic methods would be enough. But in future it w
 
 ## Plan
 - get current players
-- ?use new technologies? GraphQL/typescript
+- ?setup environment (eslint/prettier)
+- ?use new technologies? GraphQL/typescript/no nodemodules?
+- ?use proper architecture - microservice/domain driven
 
 ## Docs
 - https://medium.com/@277roshan/machine-learning-to-predict-high-performing-players-in-fantasy-premier-league-3c0de546b251
