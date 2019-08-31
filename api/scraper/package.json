@@ -1,5 +1,5 @@
 {
-  "name": "scraper",
+  "name": "@fpl/scraper",
   "version": "1.0.0",
   "description": "data scraper from FPL",
   "main": "index.js",
@@ -8,13 +8,15 @@
   "license": "MIT",
   "private": true,
   "scripts": {
-    "start": "nodemon --experimental-modules ./index.js"
+    "start": "nodemon --experimental-modules ./index.js",
+    "lint": "eslint ./"
   },
   "engines": {
     "node": ">=12"
   },
   "engineStrict": true,
   "devDependencies": {
+    "@fpl/tools": "^1.0.0",
     "nodemon": "^1.19.1"
   },
   "dependencies": {

@@ -1,0 +1,20 @@
+{
+  "name": "@fpl/tools",
+  "version": "1.0.0",
+  "main": "",
+  "author": "Illia Olenchenko",
+  "license": "MIT",
+  "private": true,
+  "files": [
+    ".eslintrc.js",
+    ".prettierrc.js"
+  ],
+  "dependencies": {
+    "eslint": "^6.3.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-config-prettier": "^6.1.0",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-prettier": "^3.1.0",
+    "prettier": "^1.18.2"
+  }
+}
