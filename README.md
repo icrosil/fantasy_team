@@ -24,10 +24,9 @@ What data i have and how can i use every bit of data.
 At start point - yes, some statistic methods would be enough. But in future it will be good to find out how can i use this tool.
 
 ## Plan
-- Graphql ready solution to read these data?
 - Main question - how to maximize overall team result?
 - Game questions
-  - what positions earn more considering others?
+  - what positions earn more considering others? ⚡️
 - Position specific
   - goalkeeper
     - How much goalkeepers earn each year considering other positions?
