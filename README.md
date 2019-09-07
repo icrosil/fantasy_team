@@ -24,6 +24,7 @@ What data i have and how can i use every bit of data.
 At start point - yes, some statistic methods would be enough. But in future it will be good to find out how can i use this tool.
 
 ## Plan
+- Graphql ready solution to read these data?
 - Main question - how to maximize overall team result?
 - Game questions
   - what positions earn more considering others?
@@ -42,11 +43,12 @@ At start point - yes, some statistic methods would be enough. But in future it w
 - ?normalize data?
 - ?use new technologies? GraphQL/typescript/no nodemodules?/serverless?/next?/now?/
 - ?use proper architecture - microservice/domain driven
+- correct DDD architecture?
 
 ## Docs
 - https://medium.com/@277roshan/machine-learning-to-predict-high-performing-players-in-fantasy-premier-league-3c0de546b251
-- https://fantasy.premierleague.com/drf/bootstrap-static
-- https://fantasy.premierleague.com/drf/element-summary/1
+- https://fantasy.premierleague.com/api/bootstrap-static
+- https://fantasy.premierleague.com/api/element-summary/1
 - https://www.kaggle.com/chaibapat/fantasy-premier-league
 - https://peterellisjones.com/posts/fantasy-machine-learning/
 - https://towardsdatascience.com/a-simple-method-to-predict-player-performance-using-fantasy-football-data-8b2d3adb3a1a
