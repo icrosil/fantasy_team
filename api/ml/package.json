@@ -6,7 +6,8 @@
   "author": "Illia Olenchenko <icrosil@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "@tensorflow/tfjs": "^0.12.7",
-    "@tensorflow/tfjs-node": "^0.1.15"
+    "@tensorflow/tfjs": "^1.2.9",
+    "@tensorflow/tfjs-node": "^1.2.9",
+    "seedrandom": "^3.0.3"
   }
 }
