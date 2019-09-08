@@ -97,7 +97,7 @@ const resolvers = {
       return cached;
     },
 
-    team: (_, args) => getTeam(args.id),
+    team: (_, args) => getTeam(+args.id),
 
     teams: () => getTeams(),
 

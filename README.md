@@ -25,9 +25,11 @@ At start point - yes, some statistic methods would be enough. But in future it w
 
 ## Plan
 - Main question - how to maximize overall team result?
+- add history fixture data for previous years
 - Game questions
   - what positions earn more considering others? ⚡️
   - start use this lib for statistics - https://www.npmjs.com/package/simple-statistics
+  - what are top 5 teams by points for last 3 years?
 - Position specific
   - goalkeeper
     - How much goalkeepers earn each year considering other positions?
@@ -51,6 +53,7 @@ At start point - yes, some statistic methods would be enough. But in future it w
 
 - Graphql
 -- learn best practices
+-- graphqlconfig per project in monorepo?
 
 - Typescript
 -- how to start it
@@ -66,3 +69,5 @@ At start point - yes, some statistic methods would be enough. But in future it w
 - https://towardsdatascience.com/machine-learning-meets-fantasy-football-part-2-36632a27328c
 - https://medium.com/@YourMumSaysWhat/how-to-get-data-from-the-fantasy-premier-league-api-4477d6a334c3
 - http://www.fantasyfutopia.com/python-for-fantasy-football-apis-and-json-data/
+- https://medium.com/@YourMumSaysWhat/how-to-get-data-from-the-fantasy-premier-league-api-4477d6a334c3
+- https://github.com/vaastav/Fantasy-Premier-League/tree/master/data/2016-17/gws
