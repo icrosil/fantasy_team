@@ -25,10 +25,10 @@ At start point - yes, some statistic methods would be enough. But in future it w
 
 ## Plan
 - Main question - how to maximize overall team result?
+- remove duplication in code logic
+- start thinking of it more like framework for statistical/ml analysis than one todo feature
 - add history fixture data for previous years
 - Game questions
-  - what positions earn more considering others? ⚡️
-  - start use this lib for statistics - https://www.npmjs.com/package/simple-statistics
   - what are top 5 teams by points for last 3 years?
 - Position specific
   - goalkeeper
