@@ -27,6 +27,7 @@ At start point - yes, some statistic methods would be enough. But in future it w
 - Main question - how to maximize overall team result?
 - Game questions
   - what positions earn more considering others? ⚡️
+  - start use this lib for statistics - https://www.npmjs.com/package/simple-statistics
 - Position specific
   - goalkeeper
     - How much goalkeepers earn each year considering other positions?
@@ -43,6 +44,17 @@ At start point - yes, some statistic methods would be enough. But in future it w
 - ?use new technologies? GraphQL/typescript/no nodemodules?/serverless?/next?/now?/
 - ?use proper architecture - microservice/domain driven
 - correct DDD architecture?
+- can i hide yarn errors on peer dependency check?
+- split express from actual good code
+
+## New Technologies Used
+
+- Graphql
+-- graphqlconfig not in root?
+-- learn best practices
+
+- Typescript
+-- how to start it
 
 ## Docs
 - https://medium.com/@277roshan/machine-learning-to-predict-high-performing-players-in-fantasy-premier-league-3c0de546b251

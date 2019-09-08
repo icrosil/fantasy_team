@@ -1,7 +1,7 @@
 {
   "name": "@fpl/tools",
   "version": "1.0.0",
-  "main": "",
+  "main": "./.eslintrc.js",
   "author": "Illia Olenchenko",
   "license": "MIT",
   "private": true,
@@ -15,6 +15,7 @@
     "eslint-config-prettier": "^6.2.0",
     "eslint-plugin-import": "^2.18.2",
     "eslint-plugin-prettier": "^3.1.0",
+    "eslint-plugin-graphql": "^3.0.3",
     "prettier": "^1.18.2"
   }
 }

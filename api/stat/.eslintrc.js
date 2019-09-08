@@ -1,1 +1,1 @@
-module.exports = require("@fpl/tools/.eslintrc");
+module.exports = require("@fpl/tools/.eslintrc.graphql");
