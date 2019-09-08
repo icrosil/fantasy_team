@@ -50,7 +50,6 @@ At start point - yes, some statistic methods would be enough. But in future it w
 ## New Technologies Used
 
 - Graphql
--- graphqlconfig not in root?
 -- learn best practices
 
 - Typescript

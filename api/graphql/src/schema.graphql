@@ -1,5 +1,6 @@
 type Query {
   team(id: ID!): Team!
+  teams: [Team!]!
   fixture(id: ID!): Fixture!
   event(id: ID!): Event!
   events: [Event!]!
